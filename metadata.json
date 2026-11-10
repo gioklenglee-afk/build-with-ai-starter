@@ -1,0 +1,6 @@
+{
+  "name": "Market Flow - Pro TradingView Markets & Stocks Screener",
+  "description": "Professional institutional-grade market overview, live stock screener, interactive candlestick charting, sector heatmaps, and financial analytics inspired by TradingView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
